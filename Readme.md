@@ -18,6 +18,6 @@
      📞 CONTACT 📞 
 </h3>
 <p align="center"> 
-  <a href="jodog0412@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>   
-  <a href="www.linkedin.com/in/현성-이-062b7621b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://jodog0412@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>   
+  <a href="https://www.linkedin.com/in/현성-이-062b7621b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
