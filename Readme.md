@@ -9,7 +9,8 @@
 <p align="center"> 
   <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>  
   <a href="https://fastapi.tiangolo.com/ko/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>  
-  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>  
+  <a href="https://www.mongodb.com/ko-kr" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 </p>
 <p align="center"> 
   <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a> 
